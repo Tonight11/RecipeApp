@@ -3,6 +3,7 @@ const search = document.querySelector('.recipe__input');
 const btn = document.querySelector('.recipe__btn');
 const container = document.querySelector('.recipe__row');
 let searchValue = '';
+// i kn0w that i dont have to use APIKEY in public project. However it`s just a practice
 const apiId = '50d84d9e';
 const apiKey = '43c8cc7824a78be2faea655b02215c36';
 
